@@ -1,8 +1,10 @@
 {
   "files.associations": {
+    ".jsbeautifyrc": "jsonc",
     "*.json": "jsonc",
     "chrono": "cpp",
     "iostream": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "xstring": "cpp"
   }
 }
