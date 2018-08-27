@@ -5,6 +5,7 @@
     "chrono": "cpp",
     "iostream": "cpp",
     "vector": "cpp",
-    "xstring": "cpp"
+    "xstring": "cpp",
+    "ratio": "cpp"
   }
 }
